@@ -1,3 +1,6 @@
+
+![alt text](https://github.com/ravikumark815/EulerProject/blob/master/Euler.jpg)
+
 Project Euler is a series of challenging problems that require mathematical and programming skills. Somebody who enjoys learning a new coding language, Euler Project is going to be a fun journey.
 
 I code each problem in C and the correct solution for the same is shown below:
