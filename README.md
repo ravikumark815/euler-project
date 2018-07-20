@@ -3,4 +3,5 @@ Project Euler is a series of challenging problems that require mathematical and 
 I code each problem in C and the correct solution for the same is shown below:
 
 Euler 1 - 233168
+
 Euler 2 - 4613732
