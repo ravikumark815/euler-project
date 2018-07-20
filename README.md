@@ -3,5 +3,40 @@ Project Euler is a series of challenging problems that require mathematical and 
 I code each problem in C and the correct solution for the same is shown below:
 
 Euler 1 - 233168
-
 Euler 2 - 4613732
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Copyright © 2018 EulerProject. All rights reserved. No warranty.
+
+This code is provided for reference only. You may republish any of this code verbatim with author and URL info intact.
+
+You need written permission from the author to make modifications to the code, include parts into your own work, etc.
