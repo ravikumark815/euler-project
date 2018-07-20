@@ -4,6 +4,8 @@ I code each problem in C and the correct solution for the same is shown below:
 
 Euler 1 - 233168
 Euler 2 - 4613732
+Euler 3 - 6857
+Euler 4 - 906609
 
 
 
