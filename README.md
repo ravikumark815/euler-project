@@ -9,7 +9,7 @@ This code is provided for reference only. You may republish any of this code ver
 
 You need written permission from the author to make modifications to the code, include parts into your own work, etc.
 
-Solutions:
+## Solutions:
 Problem #  | Result
 ---------- | --------
 1 | 233168
