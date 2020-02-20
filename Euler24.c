@@ -7,7 +7,7 @@ What is the millionth lexicographic permutation of the digits 0, 1, 2, 3, 4, 5, 
 
 Author: https://github.com/ravikumark815
 
-Answer: 4179871
+Answer: 2783915460
 */
 
 #include <inttypes.h>
