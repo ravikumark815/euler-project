@@ -22,7 +22,8 @@ int main(void)
     unsigned long long sum = 0ULL;
 
     soe = calloc(n, sizeof *soe);
-    for (i = 2; i < n; i++) {
+    for (i = 2; i < n; i++) 
+    {
         if (!soe[i]) {
         sum += i;
         for (j = i*2; j < n; j += i) {
